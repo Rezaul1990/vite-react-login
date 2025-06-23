@@ -21,6 +21,7 @@ const DashboardScreen = () => {
       <p>Have a great day!</p>
       {/* 🔗 Website Create Link */}
       <Link to="/websitecreate">Go to Website Create</Link>
+      <p></p>
       <Link to="/setting">Go tosetting page</Link>
 
     </div>
